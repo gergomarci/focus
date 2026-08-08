@@ -102,6 +102,26 @@ reviewed.
 The application itself contains no AI functionality and does not
 communicate with an AI service.
 
+## Screenshots
+
+### Tasks stay available when they're done
+
+Completed tasks move out of the way, but remain available if you need to reopen them.
+
+![Focus with a completed task](docs/focus-main-2.png)
+
+### Nothing to do?
+
+An empty day doesn't need another task.
+
+![Focus on an empty day](docs/focus-empty-day.png)
+
+### Local by design
+
+Focus stores its data locally in a single JSON file. The exact location is visible in the app and can be opened directly in Explorer.
+
+![Focus settings and application information](docs/focus-settings.png)
+
 ## Building
 
 ### Requirements
